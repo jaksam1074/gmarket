@@ -20,6 +20,6 @@ You can configure the script by modifying lua/autorun/sh_gmarket_config.lua and 
 
 Credits 
 
-Thanks for the icons to Smashicons from www.flaticon.com and Freepik from www.flaticon.com
-Thanks for the SWEP help to "SWEP Construction Kit" by Clavus
-Thanks for the font nasalization-rg to Raymond Larabie
+Thanks for the icons to Smashicons from www.flaticon.com and Freepik from www.flaticon.com.
+Thanks for the SWEP help to "SWEP Construction Kit" by Clavus.
+Thanks for the font nasalization-rg to Raymond Larabie.
