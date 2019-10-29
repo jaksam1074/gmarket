@@ -1,11 +1,11 @@
 # gmarket
-What the Garry's Mod script does?
+## What the Garry's Mod script does?
 
 This script adds to DarkRP a online marketplace where players can buy and sell weapons and entities. When a player buys something, it will be automatically delivered in player's mailbox so he can easily take the package.
 
 
 
-Features 
+## Features 
 
 Tablet where player can buy items.
 Mailbox where player receives items.
@@ -18,8 +18,10 @@ To install the script, simply extract the folder inside the .zip in garrysmod/ad
 
 You can configure the script by modifying lua/autorun/sh_gmarket_config.lua and lua/autorun/sh_gmarket_language.lua
 
-Credits 
+### Credits 
 
 Thanks for the icons to Smashicons from www.flaticon.com and Freepik from www.flaticon.com.
+
 Thanks for the SWEP help to "SWEP Construction Kit" by Clavus.
+
 Thanks for the font nasalization-rg to Raymond Larabie.
