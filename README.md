@@ -18,6 +18,9 @@ To install the script, simply extract the folder inside the .zip in garrysmod/ad
 
 You can configure the script by modifying lua/autorun/sh_gmarket_config.lua and lua/autorun/sh_gmarket_language.lua
 
+Check this also on Steam!
+https://steamcommunity.com/sharedfiles/filedetails/?id=1901915048
+
 ### Credits 
 
 Thanks for the icons to Smashicons from www.flaticon.com and Freepik from www.flaticon.com.
