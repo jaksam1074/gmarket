@@ -7,12 +7,12 @@ This script adds to DarkRP a online marketplace where players can buy and sell w
 
 ## Features 
 
-Tablet where player can buy items.
-Mailbox where player receives items.
-GPrime, a service that player can buy from the tablet, and it gives to a client exclusive benefits.
-A seller that can be saved permanently on the map with a simple command (gmarket_savepos)
-Pre-configured items to sell
-Players can buy items even when the item's seller is offline
+- Tablet where player can buy items.
+- Mailbox where player receives items.
+- GPrime, a service that player can buy from the tablet, and it gives to a client exclusive benefits.
+- A seller that can be saved permanently on the map with a simple command (gmarket_savepos)
+- Pre-configured items to sell
+- Players can buy items even when the item's seller is offline
 
 To install the script, simply extract the folder inside the .zip in garrysmod/addons folder
 
@@ -23,8 +23,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1901915048
 
 ### Credits 
 
-Thanks for the icons to Smashicons from www.flaticon.com and Freepik from www.flaticon.com.
-
-Thanks for the SWEP help to "SWEP Construction Kit" by Clavus.
-
-Thanks for the font nasalization-rg to Raymond Larabie.
+* Thanks for the icons to Smashicons from www.flaticon.com and Freepik from www.flaticon.com.
+* Thanks for the SWEP help to "SWEP Construction Kit" by Clavus.
+* Thanks for the font nasalization-rg to Raymond Larabie.
